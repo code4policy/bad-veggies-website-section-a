@@ -1,6 +1,6 @@
 # Bad Veggies Website
 
-This repository contains code for a really bad error-ridden simple website about vegetables:
+This repository contains code for a really bad error-ridden simple demo website about vegetables:
 
 https://code4policy.github.io/bad-veggies-website-section-a/
 
@@ -38,3 +38,5 @@ Together, we're going to fix (or at least modify) this error-laden monstrosity.
 And that's it. The instructor or a TA will either accept the change or comment on your pull request to suggest further edits. 
 
 Done? Try another tackling another issue (or, if you're feeling mischievous, creating one!) 
+
+That's it for today! Don't worry this is just the beginning, we will master this soon. Thank you and see you soon. 
