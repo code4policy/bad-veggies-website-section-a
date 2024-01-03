@@ -1,6 +1,6 @@
 # Bad Veggies Website
 
-This repository contains code for a really bad error-ridden simple website about vegetables:
+This repository contains code for a simple demo website about vegetables:
 
 https://code4policy.github.io/bad-veggies-website-section-a/
 
