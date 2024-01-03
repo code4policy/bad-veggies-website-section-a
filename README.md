@@ -2,7 +2,7 @@
 
 This repository contains code for a simple demo website about vegetables:
 
-https://code4policy.github.io/bad-veggies-website-section-a/
+[https://code4policy.github.io/bad-veggies-website-section-a/]   (https://femiolamijulo.github.io/bad-veggies-website-section-a/)
 
 This repo was built to help you learn about **Git** and **GitHub**. You may learn something about how websites are built along the way too!
 
