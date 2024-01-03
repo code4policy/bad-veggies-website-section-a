@@ -1,22 +1,33 @@
-html {
-	background-color: gray;
-}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample Page</title>
+    <style>
+        html {
+            background-color: gray;
+        }
 
-body {
-	background: white;
-	width: 50%;
-	margin: 10px auto;
-	padding: 10px;
+        body {
+            background: skyblue;
+            width: 50%;
+            margin: 10px auto;
+            padding: 10px;
+            color: white; /* This sets the font color to purple */
+        }
 
-}
+        table {
+            border-collapse: collapse;
+            border: 2px black solid;
+            font: 12px sans-serif;
+        }
 
-table {
-	border-collapse: collapse;
-	border: 2px black solid;
-	font: 12px sans-serif;
-}
-
-td {
-	border: 1px black solid;
-	padding: 5px;
-}
+        td {
+            border: 1px black solid;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Your HTML content goes here -->
+</body>
+</html>
