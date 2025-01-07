@@ -20,3 +20,10 @@ td {
 	border: 1px black solid;
 	padding: 5px;
 }
+
+h1.disclaimer {
+    text-align: center;
+    font-size: 18px; /* Adjust as needed */
+    margin: 20px 0;  /* Optional: add some spacing */
+    color: #333;     /* Optional: change text color */
+}
