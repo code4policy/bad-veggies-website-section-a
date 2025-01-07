@@ -1,4 +1,4 @@
-# Bad Veggies Website
+# Bad Veggies Website 2
 
 This repository contains code for a really bad error-ridden simple website about vegetables:
 
