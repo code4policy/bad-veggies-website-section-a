@@ -11,5 +11,10 @@ d3.text("veggies.csv", function(data) {
         .selectAll("td")
             .data(function(d) { return d; }).enter()
             .append("td")
-            .text(function(d) { return d; });
+            .text(function(d) { return d; })
+    d3.select("#veggiestable")
+    .select("table")
+    .selectAll("tr")
+    .filter((d, i) => i === 8) // Select the ninth row (index 8)
+    .remove();
 });
